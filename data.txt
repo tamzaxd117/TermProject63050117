@@ -1,0 +1,1 @@
+[{"year":2022,"weeknum":50,"new_case":3419,"total_case":4718908,"new_case_excludeabroad":3419,"total_case_excludeabroad":4693833,"new_recovered":0,"total_recovered":4647275,"new_death":113,"total_death":33505,"case_foreign":0,"case_prison":1,"case_walkin":3418,"case_new_prev":3625,"case_new_diff":-206,"death_new_prev":115,"death_new_diff":-2,"update_date":"2022-12-19 07:30:07"}]
